@@ -1,0 +1,14 @@
+{
+  "name": "easy-mock-import",
+  "version": "1.0.0",
+  "description": "data transfer tool for easy-mock",
+  "main": "index.js",
+  "repository": "https://github.com/jinker/easy-mock-import.git",
+  "author": "jinker <jinkerjiang@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {}
+}
