@@ -1,5 +1,5 @@
 const {exec} = require('child_process')
-const {request} = require('http')
+const {request} = require('https')
 const Buffer = require('buffer')
 
 const cUrl = ``
